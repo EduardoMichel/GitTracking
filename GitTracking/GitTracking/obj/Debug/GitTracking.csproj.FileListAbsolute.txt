@@ -1,0 +1,6 @@
+F:\Users\Eduardo\Documents\GitTracker\GitTracking\GitTracking\GitTracking\bin\Debug\GitTracking.exe.config
+F:\Users\Eduardo\Documents\GitTracker\GitTracking\GitTracking\GitTracking\bin\Debug\GitTracking.exe
+F:\Users\Eduardo\Documents\GitTracker\GitTracking\GitTracking\GitTracking\bin\Debug\GitTracking.pdb
+F:\Users\Eduardo\Documents\GitTracker\GitTracking\GitTracking\GitTracking\obj\Debug\GitTracking.csprojResolveAssemblyReference.cache
+F:\Users\Eduardo\Documents\GitTracker\GitTracking\GitTracking\GitTracking\obj\Debug\GitTracking.exe
+F:\Users\Eduardo\Documents\GitTracker\GitTracking\GitTracking\GitTracking\obj\Debug\GitTracking.pdb
